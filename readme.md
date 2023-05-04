@@ -59,7 +59,7 @@ python '.\undamped double pendulum\demo.py'
   
     
   
-- `undamped pendulum`                 *** 无阻尼单摆的仿真程序***
+- `undamped pendulum`                 ***无阻尼单摆的仿真程序***
   
   - `graph of function.py`         展示角度随着时间变化的函数曲线
   - `delta_t vary.py`                   展示欧拉法求解步长对求解结果的影响。
